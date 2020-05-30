@@ -1,0 +1,7 @@
+html,body{
+    scroll-behavior: smooth;
+}
+p::selection,div::selection,h1::selection,main::selection,nav::selection,ul::selection,h3::selection,h2::selection,header::selection,button::selection,img::selection,section::selection,a::selection,h1::selection,h2::selection,span::selection,br::selection{
+    background: rgb(253, 215, 0);
+    color: rgb(0, 0, 0);
+  }
